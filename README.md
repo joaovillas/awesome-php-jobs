@@ -66,6 +66,7 @@ A curated list of companies using php in production
 ## J - L
 * [LeaseWeb](https://www.leaseweb.com/career) | Amsterdam, The Netherlands
 * [Lendflow](https://lendflow.io/) | Houston, EUA
+* [Jurídico Certo](https://juridicocerto.com/) | São Paulo, Brazil
 * [Leroy Merlin](http://leroymerlin.com.br) | São Paulo, Brazil
 * [Lesara](https://corporate.lesara.com/career) | Berlin, Germany
 * [Linio](http://linio.applytojob.com/apply) | Mexico City, Mexico
